@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleAppKotlin</string>
+
+    <string name="w480_still">480w_still</string>
+    <string name="id">id</string>
+    <string name="url">url</string>
+</resources>
